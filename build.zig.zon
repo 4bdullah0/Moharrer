@@ -1,0 +1,74 @@
+.{
+    
+    
+    
+    
+    
+    
+    
+    .name = .Moharrer,
+    
+    
+    .version = "0.0.0",
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .fingerprint = 0xda73bc486e50f73d, 
+    
+    
+    .minimum_zig_version = "0.17.0",
+    
+    
+    
+    
+    
+    .dependencies = .{
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    .paths = .{
+        "NONE",
+    },
+}
